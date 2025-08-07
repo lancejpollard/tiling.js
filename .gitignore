@@ -1,0 +1,22 @@
+# random Mac file for some reason they add....
+.DS_Store
+.musicapps-project-folder
+
+# claude-code stuff
+.claude/settings.local.json
+
+# Node project files (if using CLI tools or daemons)
+node_modules/
+dist/
+build/
+
+*.js
+
+# private keys
+# (mostly used in source code scripts etc..).
+.env
+
+# folder which only exists on your local machine
+# (not synced/shared)
+locals/
+.locks/
